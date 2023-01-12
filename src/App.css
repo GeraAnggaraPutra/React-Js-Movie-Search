@@ -1,0 +1,11 @@
+input {
+  border: none;
+  height: 30px;
+  width: 400px;
+  border-bottom: 2px solid blue;
+}
+ input:hover{
+  height: 35px;
+  width: 410px;
+  transition: 0.5s all ease-in-out;
+ }
